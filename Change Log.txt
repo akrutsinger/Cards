@@ -1,0 +1,20 @@
+Change log:
+
+CGame
+-----
+	+ Optimized InitDrag routine and added more options
+	+ InitDrag now allows you to drag cards that are higher by one, lower by one, or opposite colors
+	+ Added ability to define multiple Drag options when creating a CCardRegion
+
+CCardRegion
+-----------
+	+ Optimized CCardRegion::CanDrop()
+	+ CCardRegion::CanDrop() now allows you to have CRD_DOLOWER and CRD_DOHIGHER variations
+
+CCardStack
+----------
+
+
+CCard
+-----
+

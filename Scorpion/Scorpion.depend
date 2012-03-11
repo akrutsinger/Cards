@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1323507159 source:c:\users\awk\documents\codeblocks projects\cards\drac\engine\src\ccardstack.cpp
+	"../includes/CCardStack.h"
+
+1323507165 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\ccardstack.h
+	"CCard.h"
+	<vector>
+	<algorithm>
+	<time.h>
+	<stdlib.h>
+
+1063383828 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\ccard.h
+
+1320895199 source:c:\users\awk\documents\codeblocks projects\cards\drac\engine\src\cgame.cpp
+	"../includes/CGame.h"
+	<stdio.h>
+
+1063566048 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\cgame.h
+	<vector>
+	"CCardRegion.h"
+
+1323507146 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\ccardregion.h
+	"CCardStack.h"
+	"CardGraphics.h"
+
+1323323521 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\cardgraphics.h
+	"windows.h"
+	"sdl/sdl.h"
+	"../includes/CCard.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255800464 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_platform.h
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\begin_code.h
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\close_code.h
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_keysym.h
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\awk\documents\codeblocks projects\cards\drac\engine\includes\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1323323800 source:c:\users\awk\documents\codeblocks projects\cards\drac\engine\src\cardgraphics.cpp
+	"../includes/CardGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1277585446 source:c:\users\awk\documents\codeblocks projects\cards\drac\font\font.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"../engine/includes/sdl/SDL.h"
+	"font.h"
+
+1277584232 c:\users\awk\documents\codeblocks projects\cards\drac\font\font.h
+	"../engine/includes/sdl/SDL.h"
+
+1323675650 source:c:\users\awk\documents\codeblocks projects\cards\scorpion\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"../DRAC/engine/includes/CGame.h"
+	"../DRAC/font/font.h"
+
+1323675749 source:c:\users\awk\documents\codeblocks projects\cards\drac\engine\src\ccardregion.cpp
+	"../includes/CCardRegion.h"
+

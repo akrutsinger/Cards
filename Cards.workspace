@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Cards">
+		<Project filename="Beleaguered Castle/Beleaguered Castle.cbp" />
+		<Project filename="Klondike/Klondike.cbp" />
+		<Project filename="Golf/Golf.cbp" />
+		<Project filename="Scorpion/Scorpion.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>
